@@ -1,0 +1,15 @@
+IGNORE 48e4e9eb-3374-4d24-b995-988b3d86edde Just a number in the chat
+IGNORE a7db0542-8407-4182-a99a-e7a6b04647c3 People posting their age
+IGNORE 1993dd2b-0b63-4e9a-b95a-8f00ef8ca2b1 Rating a picture
+IGNORE ca6b6ead-83f4-43b5-966e-496d4f1d2c49 Single late vote
+IGNORE eb3f3ad8-934d-4f90-ab8a-a832f3d1c89c Single late vote
+IGNORE 60136a36-855d-4312-903c-d0131ac772dc Single late vote
+CLIP 7d233474-4ce6-495d-99ff-92675341fb47 https://clips.twitch.tv/GlutenFreeMagnificentOwlBibleThump-bgbITngx9k64slBg First 10/10
+CLIP 599a9667-a9e7-46ca-b0d2-7be8a3bc5eb6 https://clips.twitch.tv/CuteZanyLaptopCclamChamp-ZgchXaGjQqZqBZGI
+IGNORE e8b954ae-fde7-4f46-aeca-797b3837ba22 People posting their age
+CLIP 23b151b7-8cdf-4b00-a278-008191c890c8 https://clips.twitch.tv/SmellyConsiderateStingrayFrankerZ--kTrhoVuii7om3FX Top 2 May 2021
+CLIP 04685108-5198-4a2a-9387-ee42b841b947 https://clips.twitch.tv/HeartlessInterestingJamTBTacoRight-9TUVLlcMx1BZiHfb Top 3 May 2021
+IGNORE 1ec9b7ef-eadd-41db-8967-1444bfb3d999 Just a number in the chat
+CLIP c7f2178f-c9b2-486b-8b5d-824dff91f774 https://clips.twitch.tv/SneakyEvilQuailDoubleRainbow-DoCQS7yFgjIqL9P8 TOP Burp June 2021
+CLIP 43b7e21e-ade8-4812-9ae5-b5db794e74ca https://clips.twitch.tv/AbstrusePrettyAlligatorHoneyBadger-fmQn1r409G7-Nfy_ TOP 2 June 2021
+CLIP 91ded32b-abff-4569-a262-8567e4a6b3ad https://clips.twitch.tv/SpookyMotionlessEggplantStoneLightning-87TULumyEnLRr8pl TOP 3 June 2021
